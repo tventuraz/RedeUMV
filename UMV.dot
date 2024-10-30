@@ -1,0 +1,30 @@
+digraph G {
+
+
+FORUM [label="Forum de\nDiscussão"]
+AI_UMV [label="Assistência IA\nModeração"]
+
+UNIDADE [shape="octagon" fillcolor="gray"  style="filled" label="Unidade UMV"]
+REDE [shape="octagon" fillcolor="gray"  style="filled" label="Rede UMV"]
+INFRA [shape="octagon" fillcolor="gray"  style="filled" label="Infraestrutura UMV"]
+
+
+OPERADOR -> UNIDADE [label="opera"]
+
+UNIDADE -> REDE [label="acessa"]
+UNIDADE -> INFRA [label="acessa"]
+
+AI_LOCAL -> UNIDADE [label="compõe"]
+
+HIPERSPECTRAL -> INFRA [label="compõe"]
+ULTRAVIOLETA -> INFRA [label="compõe"]
+
+
+FORUM -> REDE [label="compõe"]
+
+FORUM -> HABEMAS [label="implementa"]
+FORUM -> RECOMPENSA [label="implementa"]
+FORUM -> PENALIDADE [label="implementa"]
+FORUM -> AI_UMV [label="implementa"]
+
+}
