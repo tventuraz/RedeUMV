@@ -111,3 +111,6 @@ Por fim, a regulamentação do uso de tecnologias de rastreamento ocular em oper
 
 Em suma, o eye-tracking representa uma ferramenta poderosa e inovadora no campo da espionagem, vigilância e segurança. Embora suas aplicações sejam promissoras, é crucial que seu uso seja guiado por considerações éticas e legais rigorosas. Somente assim será possível aproveitar os benefícios dessa tecnologia de maneira responsável e eficaz.
 A diversidade de técnicas de keylogging, incluindo software, hardware, visual keylogging e eye-tracking, oferece ferramentas poderosas para espionagem, vigilância e segurança. No entanto, o uso dessas tecnologias deve ser acompanhado de uma reflexão cuidadosa sobre as implicações éticas e legais. À medida que essas técnicas se tornam mais comuns, é fundamental que sejam empregadas de maneira responsável, respeitando os direitos e a privacidade dos indivíduos.
+
+Referência: [Exploring the Process of Reading During Writing Using Eye Tracking and Keystroke Logging](https://link.springer.com/content/pdf/10.3758/BRM.41.2.337.pdf)
+
