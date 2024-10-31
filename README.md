@@ -23,7 +23,7 @@ A tecnologia de sensores hiperspectrais tem avançado significativamente, propor
 
 ## :pushpin: Glossário
 
-[Glossário](https://github.com/tventuraz/RedeUMV/blob/387bd33ddf3c63c212b6e374e5a4a484d6447bd7/Glossario.md)
+[Glossário](https://github.com/tventuraz/RedeUMV/blob/44ad8846c5f87887a55bf20b4c85f33eaa41a57b/Glossario.md)
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
 
