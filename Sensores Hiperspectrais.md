@@ -2,13 +2,13 @@
 
 *Ventura, Tiago [2024.10.31]*
 
-## Resumo
-
-A tecnologia de sensores hiperspectrais tem avançado significativamente, proporcionando novas oportunidades para a captura e análise de dados em diversas áreas, como monitoramento de dispositivos eletrônicos e segurança. Este artigo explora o funcionamento dos sensores hiperspectrais, suas aplicações em contextos como visual keylogging e análise da pele, e as implicações éticas associadas ao seu uso. A análise é apoiada por referências acadêmicas relevantes que aprofundam a discussão.
-
 ## Abstract
 
 Hyperspectral sensor technology has significantly advanced, providing new opportunities for data capture and analysis across various fields, such as monitoring electronic devices and security. This paper explores the functioning of hyperspectral sensors, their applications in contexts like visual keylogging and skin analysis, and the ethical implications associated with their use. The analysis is supported by relevant academic references that deepen the discussion.
+
+## Resumo
+
+A tecnologia de sensores hiperspectrais tem avançado significativamente, proporcionando novas oportunidades para a captura e análise de dados em diversas áreas, como monitoramento de dispositivos eletrônicos e segurança. Este artigo explora o funcionamento dos sensores hiperspectrais, suas aplicações em contextos como visual keylogging e análise da pele, e as implicações éticas associadas ao seu uso. A análise é apoiada por referências acadêmicas relevantes que aprofundam a discussão.
 
 ## 1. Introdução
 
