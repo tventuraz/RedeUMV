@@ -146,5 +146,5 @@ No entanto, existem desafios a serem considerados. A complexidade dos dados gera
 
 Em resumo, embora um sensor hiperspectral com um tempo de regeneração adequado possa, em teoria, detectar informações acústicas, isso exigiria um desenvolvimento cuidadoso em termos de tecnologia e análise de dados.
 
-[EchoLight: Sound Eavesdropping based on
+ - [EchoLight: Sound Eavesdropping based on
 Ambient Light Reflection](https://perfecthu.github.io/publications/INFOCOM24-EchoLight.pdf)
