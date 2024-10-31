@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This paper analyzes the "UMV Network," a discussion forum designed for sharing intelligence information in governmental and military contexts. Utilizing the principles of Habermas's Theory, the UMV Network employs artificial intelligence (AI) assistants to moderate interactions, promoting open and evidence-based dialogue. However, malicious practices such as hoaxes, spamming, flooding, and group trolling threaten the effectiveness of this moderation, aiming to obstruct justice and inject counter-information. This study explores how these tactics can destabilize the network, compromising the integrity of critical information and the effectiveness of AI assistants.
+*This paper analyzes the "UMV Network," a discussion forum designed for sharing intelligence information in governmental and military contexts. Utilizing the principles of Habermas's Theory, the UMV Network employs artificial intelligence (AI) assistants to moderate interactions, promoting open and evidence-based dialogue. However, malicious practices such as hoaxes, spamming, flooding, and group trolling threaten the effectiveness of this moderation, aiming to obstruct justice and inject counter-information. This study explores how these tactics can destabilize the network, compromising the integrity of critical information and the effectiveness of AI assistants.*
 
 ## Resumo
 
