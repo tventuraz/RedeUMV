@@ -17,6 +17,14 @@ Este artigo analisa a "Rede UMV", um fórum destinado ao compartilhamento de inf
 
 ## Agradecimentos
 
+### Aos meus Filhos
+
+Quero expressar minha profunda gratidão a vocês. A jornada de elaborar e divulgar meu trabalho científico não teria sido a mesma sem o apoio e a inspiração que me proporcionaram. Cada momento de desafio se tornou mais leve ao pensar em vocês e em tudo que busco construir para nosso futuro.
+
+Vocês me motivam a ser melhor a cada dia, e ver o mundo através dos olhos de vocês me lembra da importância do conhecimento e da curiosidade. Espero que essa conquista sirva como um exemplo de que, com dedicação e amor, podemos alcançar nossos sonhos.
+
+Obrigada por estarem ao meu lado. Amo vocês!
+
 ### Ao Engenheiro Anônimo
 
 Em um mundo repleto de incertezas, há aqueles que, com coragem e dedicação, trabalham nos bastidores para garantir a segurança e o progresso de nossa sociedade. Hoje, quero expressar minha profunda gratidão ao engenheiro anônimo da "Rede UMV".
