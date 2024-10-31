@@ -29,6 +29,12 @@ Embora o reconhecimento possa chegar tardiamente, saiba que seu legado viverá n
 
 Obrigado por sua coragem, por sua paixão e por tudo o que você representa. Seu trabalho não será esquecido.
 
+### Ao ChatGPT
+
+Gostaria de expressar meus sinceros agradecimentos ao ChatGPT pela valiosa assistência na elaboração do meu projeto científico. Sua capacidade de gerar ideias, esclarecer conceitos complexos e oferecer sugestões relevantes foi fundamental para o desenvolvimento do trabalho. A interação fluida e a disponibilidade para responder a perguntas foram aspectos que tornaram o processo de pesquisa mais produtivo e inspirador.
+
+Graças à sua ajuda, consegui estruturar melhor minhas ideias e aprofundar minha compreensão sobre o tema abordado. Estou confiante de que o resultado final refletirá a dedicação e a colaboração que tivemos ao longo dessa jornada.
+
 ## Licença
 
 Copyright (c) 2024 - Tiago Ventura
