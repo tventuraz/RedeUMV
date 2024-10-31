@@ -15,6 +15,12 @@ Este artigo apresenta uma análise detalhada da "Rede UMV", um fórum de discuss
 
 Este artigo analisa a "Rede UMV", um fórum destinado ao compartilhamento de informações de inteligência em contextos governamentais e militares. Utilizando os princípios da Máquina de Habermas, a Rede UMV emprega assistências de inteligência artificial (IA) para moderar interações e promover um diálogo fundamentado. No entanto, práticas mal-intencionadas, como hoaxes, spamming, flooding e trolling em grupo, ameaçam a eficácia dessa moderação, visando obstruir a justiça e injetar contrainformações. Este estudo investiga como essas táticas podem desestabilizar a rede, comprometendo a integridade das informações críticas e a eficácia das assistências de IA.
 
+## :pushpin: Rede UMV: Vulnerabilidades em um Fórum de Inteligência
+
+[Rede UMV - Sensores Hiperspectrais: Tecnologias, Aplicações e Implicações Éticas](https://github.com/tventuraz/RedeUMV/blob/7542cfb6d383053498e319125c9a9fe4b96b2147/Rede%20UMV%20-%20Sensores%20Hiperspectrais%20-%20Ventura%2C%20Tiago%20%5B2024.10.31%5D.pdf)
+
+A tecnologia de sensores hiperspectrais tem avançado significativamente, proporcionando novas oportunidades para a captura e análise de dados em diversas áreas, como monitoramento de dispositivos eletrônicos e segurança. Este artigo explora o funcionamento dos sensores hiperspectrais, suas aplicações em contextos como visual keylogging e análise da pele, e as implicações éticas associadas ao seu uso. A análise é apoiada por referências acadêmicas relevantes que aprofundam a discussão.
+
 ## Agradecimentos
 
 ### Aos meus Filhos
