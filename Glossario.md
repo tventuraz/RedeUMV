@@ -93,10 +93,13 @@ As aplicações de keyloggers são amplas e diversas, especialmente em contextos
 
 Apesar de suas aplicações legítimas, o uso de keyloggers em espionagem e vigilância levanta sérias preocupações éticas e de privacidade. A captura de dados sensíveis sem o consentimento explícito do usuário é uma violação grave da privacidade. É crucial que a utilização dessas tecnologias ocorra de forma transparente, garantindo que os indivíduos estejam cientes do monitoramento e concordem com isso.
 
-Referência #1: [Exploring the Process of Reading During Writing Using Eye Tracking and Keystroke Logging](https://link.springer.com/content/pdf/10.3758/BRM.41.2.337.pdf)
+ - [Exploring the Process of Reading During Writing Using Eye Tracking and Keystroke Logging](https://link.springer.com/content/pdf/10.3758/BRM.41.2.337.pdf)
 
-Referencia #2: [Visual Key logging: A Novel Approach with Depth
+ - [Visual Key logging: A Novel Approach with Depth
 Estimation and Triangulation](https://ijirt.org/publishedpaper/IJIRT166131_PAPER.pdf)
+
+ - [Electromagnetic Eavesdropping Risks of
+Flat-Panel Displays](https://www.cl.cam.ac.uk/~mgk25/pet2004-fpd.pdf)
 
 ### Eye-Tracking (rastreamento ocular)
 
