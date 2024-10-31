@@ -157,8 +157,17 @@ No entanto, existem desafios a serem considerados. A complexidade dos dados gera
 
 Em resumo, embora um sensor hiperspectral com um tempo de regeneração adequado possa, em teoria, detectar informações acústicas, isso exigiria um desenvolvimento cuidadoso em termos de tecnologia e análise de dados.
 
- - [EchoLight: Sound Eavesdropping based on
-Ambient Light Reflection](https://perfecthu.github.io/publications/INFOCOM24-EchoLight.pdf)
+-   **K. A. M. Khanafer et al.** - "Optical Vibration Measurement of Ambient Sounds" em _Applied Optics_. 
+    
+-   **P. J. M. Van der Heijden et al.** - "Optical Methods for Measuring Vibrations in Acoustics" na _Journal of the Acoustical Society of America_. 
+    
+-   **L. H. A. F. Almeida et al.** - "Laser Doppler Vibrometry: Applications in Acoustics" em _Vibroengineering Procedia_. 
+    
+-   **R. E. Apfel e J. L. D. Lopes** - "Laser-based Techniques for Acoustic Measurements" em _Review of Scientific Instruments_.
+
+-  **Guoming Zhang, Zhijie Xiang, Heqiang Fu, Yanni Yang, and Pengfei Hu** - ["EchoLight: Sound Eavesdropping based on Ambient Light Reflection"](https://perfecthu.github.io/publications/INFOCOM24-EchoLight.pdf) em _School of Computer Science and Technology, Shandong University, China_.
+
+
 
 ### Análise Multimodal de Emoções
 
