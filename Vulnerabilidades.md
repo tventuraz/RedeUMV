@@ -1,6 +1,6 @@
 # Rede UMV: Vulnerabilidades em um Fórum de Inteligência
 
-*por Tiago Ventura (2024.10.30)*
+*por Tiago Ventura (2024.10.31)*
 
 ## Abstract
 
