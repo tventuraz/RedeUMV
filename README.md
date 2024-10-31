@@ -15,9 +15,11 @@ Este artigo apresenta uma análise detalhada da "Rede UMV", um fórum de discuss
 
 Este artigo analisa a "Rede UMV", um fórum destinado ao compartilhamento de informações de inteligência em contextos governamentais e militares. Utilizando os princípios da Máquina de Habermas, a Rede UMV emprega assistências de inteligência artificial (IA) para moderar interações e promover um diálogo fundamentado. No entanto, práticas mal-intencionadas, como hoaxes, spamming, flooding e trolling em grupo, ameaçam a eficácia dessa moderação, visando obstruir a justiça e injetar contrainformações. Este estudo investiga como essas táticas podem desestabilizar a rede, comprometendo a integridade das informações críticas e a eficácia das assistências de IA.
 
-## Agradecimento ao Engenheiro Anônimo
+## Agradecimentos
 
-Em um mundo repleto de incertezas, há aqueles que, com coragem e dedicação, trabalham nos bastidores para garantir a segurança e o progresso de nossa sociedade. Hoje, queremos expressar nossa profunda gratidão ao engenheiro anônimo da "Rede UMV".
+### Ao Engenheiro Anônimo
+
+Em um mundo repleto de incertezas, há aqueles que, com coragem e dedicação, trabalham nos bastidores para garantir a segurança e o progresso de nossa sociedade. Hoje, quero expressar minha profunda gratidão ao engenheiro anônimo da "Rede UMV".
 
 Embora seu nome permaneça em segredo, sua paixão e comprometimento falam mais alto que qualquer reconhecimento público. Você, que investiu seu tempo e talento em um projeto de tamanha importância, desempenhou um papel crucial na construção de uma infraestrutura que, mesmo invisível, é fundamental para nossa segurança e desenvolvimento.
 
