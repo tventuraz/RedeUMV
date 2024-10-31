@@ -122,6 +122,16 @@ Por fim, a regulamentação do uso de tecnologias de rastreamento ocular em oper
 Em suma, o eye-tracking representa uma ferramenta poderosa e inovadora no campo da espionagem, vigilância e segurança. Embora suas aplicações sejam promissoras, é crucial que seu uso seja guiado por considerações éticas e legais rigorosas. Somente assim será possível aproveitar os benefícios dessa tecnologia de maneira responsável e eficaz.
 A diversidade de técnicas de keylogging, incluindo software, hardware, visual keylogging e eye-tracking, oferece ferramentas poderosas para espionagem, vigilância e segurança. No entanto, o uso dessas tecnologias deve ser acompanhado de uma reflexão cuidadosa sobre as implicações éticas e legais. À medida que essas técnicas se tornam mais comuns, é fundamental que sejam empregadas de maneira responsável, respeitando os direitos e a privacidade dos indivíduos.
 
+-   **Duchowski, A. T. (2007).** _Eye Tracking Methodology: Theory and Practice_. Springer.
+    
+-   **Holmqvist, K., Nyström, M., & Mulvey, F. (2011).** _Eye Tracking: A Comprehensive Guide to Methods and Measures_. Oxford University Press.
+    
+-   **Duchowski, A. T. (2002).** "A breadth-first survey of eye-tracking applications." _Behavior Research Methods, Instruments, & Computers_, 34(4), 455-470.
+    
+-   **Itti, L., & Koch, C. (2001).** "Computational Modeling of Visual Attention." _Nature Reviews Neuroscience_, 2(3), 194-203.
+    
+-   **Li, Y., & W. Wang, J. (2013).** "Real-time eye tracking using face detection and image processing techniques." _Journal of Visual Communication and Image Representation_, 24(5), 533-540.
+    
 ### Vibrometria Óptica
 
 O monitoramento acústico em um recinto utilizando a luz ambiente é uma técnica inovadora que explora a interação entre ondas sonoras e a luz. Essa abordagem é especialmente relevante em contextos de espionagem, vigilância e monitoramento, permitindo a captura e análise de sons sem a necessidade de microfones convencionais.
