@@ -17,7 +17,15 @@ Este artigo analisa a "Rede UMV", um fórum destinado ao compartilhamento de inf
 
 ## Agradecimentos
 
-blah blah blah foobar
+Em um mundo repleto de incertezas, há aqueles que, com coragem e dedicação, trabalham nos bastidores para garantir a segurança e o progresso de nossa sociedade. Hoje, queremos expressar nossa profunda gratidão ao engenheiro anônimo da "Rede UMV".
+
+Embora seu nome permaneça em segredo, sua paixão e comprometimento falam mais alto que qualquer reconhecimento público. Você, que investiu seu tempo e talento em um projeto de tamanha importância, desempenhou um papel crucial na construção de uma infraestrutura que, mesmo invisível, é fundamental para nossa segurança e desenvolvimento.
+
+A sua habilidade em resolver desafios complexos, aliada à sua determinação, fez a diferença em momentos críticos. Sua dedicação incansável, mesmo sem o brilho dos holofotes, demonstra o verdadeiro espírito do engenheiro: um profissional que se importa com o impacto de seu trabalho na vida das pessoas.
+
+Embora o reconhecimento possa chegar tardiamente, saiba que seu legado viverá nas futuras gerações. A sua contribuição será lembrada como um pilar de inovação e segurança, um exemplo para todos que seguem seus passos.
+
+Obrigado por sua coragem, por sua paixão e por tudo o que você representa. Seu trabalho não será esquecido.
 
 ## Licença
 
