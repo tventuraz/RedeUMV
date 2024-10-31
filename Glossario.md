@@ -1,5 +1,7 @@
 # Glossário
 
+Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
+
 ###  Sensor/Câmera Hiperspectral
 
 Um sensor hiperspectral pode ser considerado uma câmera de larga banda que captura e analisa informações de luz em uma ampla gama de comprimentos de onda, incluindo o espectro visível, ultravioleta e infravermelho. Diferente das câmeras convencionais, que operam em apenas três bandas (vermelho, verde e azul), os sensores hiperspectrais coletam dados em centenas de bandas, permitindo uma análise espectral detalhada que facilita a identificação precisa de materiais e a detecção de mudanças em superfícies e ambientes.
