@@ -2,7 +2,7 @@
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
 
-###  Sensor/Câmera Hiperspectral
+###  :small_blue_diamond: Sensor/Câmera Hiperspectral
 
 Um sensor hiperspectral pode ser considerado uma câmera de larga banda que captura e analisa informações de luz em uma ampla gama de comprimentos de onda, incluindo o espectro visível, ultravioleta e infravermelho. Diferente das câmeras convencionais, que operam em apenas três bandas (vermelho, verde e azul), os sensores hiperspectrais coletam dados em centenas de bandas, permitindo uma análise espectral detalhada que facilita a identificação precisa de materiais e a detecção de mudanças em superfícies e ambientes.
 
@@ -10,7 +10,7 @@ Na medicina, esses sensores oferecem aplicações inovadoras e promissoras, espe
 
 No campo da segurança pública, os sensores hiperspectrais desempenham um papel crucial na detecção de objetos ocultos, como armas de fogo e armas brancas, que podem estar escondidas sob a roupa de suspeitos ou dentro de malas e bolsas. Essa tecnologia permite a identificação de materiais que não seriam facilmente detectáveis por métodos convencionais, aumentando a eficácia das operações de segurança. Em situações de emergência, como desastres naturais, os sensores também podem auxiliar na avaliação de danos, permitindo que equipes de resgate localizem pessoas ou recursos de forma mais eficiente. A integração de tecnologia hiperspectral em sistemas de segurança pública representa um avanço significativo na coleta e análise de informações críticas, resultando em respostas mais rápidas e eficazes a incidentes.
 
-### Luz/Radição Ultravioleta
+### :small_blue_diamond: Luz/Radição Ultravioleta
 
 A luz ultravioleta (UV) é uma forma de radiação eletromagnética que se encontra além da luz visível no espectro, com comprimentos de onda variando de aproximadamente 10 nm a 400 nm. Essa radiação é classificada em três categorias, cada uma com características distintas de penetração.
 
@@ -22,7 +22,7 @@ A luz ultravioleta também é valiosa na esterilização de equipamentos e área
 
 No entanto, é importante ressaltar que a exposição excessiva à radiação UV pode causar danos à saúde de qualquer ser humano, independentemente da situação. Os efeitos incluem queimaduras, envelhecimento prematuro da pele e aumento do risco de câncer. Por isso, a proteção adequada é essencial, especialmente em contextos onde a luz ultravioleta é utilizada de forma intensiva.
 
-### Espectroscopia
+### :small_blue_diamond: Espectroscopia
 
 A espectroscopia é uma técnica essencial na ciência que explora como a radiação eletromagnética interage com a matéria. Essa interação ocorre quando a luz (ou outra forma de radiação) é absorvida, emitida ou dispersa por átomos e moléculas. Ao analisar os espectros resultantes dessas interações, os cientistas podem obter informações valiosas sobre a composição química, estrutura e propriedades físicas de uma amostra.
 
@@ -32,7 +32,7 @@ Outro tipo importante é a espectroscopia de fluorescência, que estuda a luz em
 
 A espectroscopia é amplamente aplicada em diversas áreas, como a química analítica, onde é utilizada para identificar e quantificar substâncias em misturas complexas. Na medicina, técnicas espectroscópicas são usadas para diagnosticar doenças e monitorar tratamentos. Além disso, na indústria, a espectroscopia ajuda no controle de qualidade e no desenvolvimento de novos materiais. Em resumo, a espectroscopia é uma ferramenta poderosa que fornece uma janela para a compreensão da matéria em nível molecular.
 
-### Espectroscopia com Radiação/Luz Ultravioleta
+### :small_blue_diamond: Espectroscopia com Radiação/Luz Ultravioleta
 
 A espectroscopia com luz ultravioleta (UV) é uma técnica analítica que utiliza radiação UV para explorar a interação entre a luz e a matéria. Essa abordagem é especialmente eficaz na identificação e quantificação de substâncias químicas, sendo particularmente útil para compostos orgânicos e alguns inorgânicos que absorvem radiação UV em comprimentos de onda específicos.
 
@@ -46,7 +46,7 @@ Entre as vantagens dessa técnica, destacam-se a rapidez, a sensibilidade e a ca
 
 Em resumo, a espectroscopia UV é uma ferramenta poderosa, não apenas para análises químicas, mas também em contextos médicos e militares, permitindo a identificação e quantificação de substâncias com base em suas propriedades de absorção de luz, e ampliando a capacidade de análise ao explorar camadas mais profundas das amostras.
 
-### Máquina de Habermas
+### :small_blue_diamond: Máquina de Habermas
 
 A "máquina de Habermas" refere-se à teoria da ação comunicativa desenvolvida por Jürgen Habermas, um filósofo e sociólogo alemão. Essa teoria destaca a importância da comunicação na construção da sociedade e na busca por entendimento mútuo, tendo aplicações significativas na área de inteligência.
 
@@ -64,7 +64,7 @@ O objetivo central da teoria da ação comunicativa é promover um entendimento 
 
 Essa teoria tem influenciado diversas áreas, incluindo sociologia, filosofia política, educação e, claro, inteligência. Ao fornecer uma base sólida para entender como as interações sociais podem ser aprimoradas na busca pela verdade, a teoria de Habermas contribui para a eficácia das operações de inteligência, ajudando a construir sociedades mais informadas e críticas.
 
-### Assistência por Inteligência Artificial (IA)
+### :small_blue_diamond: Assistência por Inteligência Artificial (IA)
 
 A assistência por inteligência artificial (IA) através de interfaces homem-máquina (IHM) que utilizam linguagem natural é um campo em rápida evolução, permitindo uma comunicação mais intuitiva entre usuários e máquinas. Um dos elementos fundamentais para o sucesso desses sistemas é o treinamento das IAs, que se baseia em um conjunto robusto de técnicas e metodologias.
 
@@ -80,7 +80,7 @@ A Integração com Sistemas e APIs também depende de um treinamento eficaz. Dur
 
 Em suma, o treinamento das IAs é um componente essencial que influencia todos os aspectos de sua operação. Ele não apenas capacita os sistemas a realizar tarefas específicas, mas também aprimora a experiência do usuário, tornando a interação com máquinas mais natural e intuitiva. A combinação de PLN, ML e GLN, todas fundamentadas em um treinamento sólido, representa um avanço significativo na forma como humanos e máquinas se comunicam.
 
-### Keylogging
+### :small_blue_diamond: Keylogging
 
 Keylogging é uma técnica de espionagem que registra as teclas pressionadas em um teclado, tendo como principal objetivo capturar informações sensíveis, como senhas e dados bancários. Embora algumas aplicações possam ser legítimas, muitos keyloggers são empregados de forma maliciosa para roubo de identidade, fraudes financeiras e outras atividades ilegais. Essa prática levanta questões críticas sobre privacidade e segurança em ambientes digitais.
 
@@ -103,7 +103,7 @@ Estimation and Triangulation](https://ijirt.org/publishedpaper/IJIRT166131_PAPER
  - [Electromagnetic Eavesdropping Risks of
 Flat-Panel Displays](https://www.cl.cam.ac.uk/~mgk25/pet2004-fpd.pdf)
 
-### Eye-Tracking (rastreamento ocular)
+### :small_blue_diamond: Eye-Tracking (rastreamento ocular)
 
 O eye-tracking, ou rastreamento ocular, é uma tecnologia que monitora os movimentos dos olhos, permitindo capturar o ponto de vista de um indivíduo em tempo real. Essa ferramenta tem se tornado cada vez mais relevante em contextos de espionagem, vigilância e segurança, oferecendo novas possibilidades para análise de comportamento e tomada de decisões.
 
@@ -132,7 +132,7 @@ A diversidade de técnicas de keylogging, incluindo software, hardware, visual k
     
 -   **Li, Y., & W. Wang, J. (2013).** "Real-time eye tracking using face detection and image processing techniques." _Journal of Visual Communication and Image Representation_, 24(5), 533-540.
     
-### Vibrometria Óptica
+### :small_blue_diamond: Vibrometria Óptica
 
 O monitoramento acústico em um recinto utilizando a luz ambiente é uma técnica inovadora que explora a interação entre ondas sonoras e a luz. Essa abordagem é especialmente relevante em contextos de espionagem, vigilância e monitoramento, permitindo a captura e análise de sons sem a necessidade de microfones convencionais.
 
@@ -167,9 +167,7 @@ Em resumo, embora um sensor hiperspectral com um tempo de regeneração adequado
 
 -  **Guoming Zhang, Zhijie Xiang, Heqiang Fu, Yanni Yang, and Pengfei Hu** - ["EchoLight: Sound Eavesdropping based on Ambient Light Reflection"](https://perfecthu.github.io/publications/INFOCOM24-EchoLight.pdf) em _School of Computer Science and Technology, Shandong University, China_.
 
-
-
-### Análise Multimodal de Emoções
+### :small_blue_diamond: Análise Multimodal de Emoções
 
 A análise multimodal de emoções, utilizando sensores hiperspectrais em combinação com luz ultravioleta (UV), representa um avanço significativo na área de segurança e vigilância. Essa tecnologia oferece uma abordagem inovadora para monitorar e interpretar emoções humanas, sendo especialmente valiosa em situações críticas onde a segurança é uma preocupação primordial.
 
