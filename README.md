@@ -2,7 +2,15 @@
 
 *por Tiago Ventura*
 
-## License
+## Rede UMV: Integração da Máquina de Habermas com Assistências de Inteligência Artificial em um Fórum de Discussão de Compartilhamento de Informações de Inteligência para Autoridades Governamentais e Militares
+
+[Rede UMV - Ventura, Tiago [2024-10-30].pdf](https://github.com/tventuraz/RedeUMV/blob/7e3c54f3cd96cccf5bd5fe122f9deb4b960b72d0/Rede%20UMV%20-%20Ventura%2C%20Tiago%20%5B2024-10-30%5D.pdf)
+
+Este artigo apresenta uma análise detalhada da "Rede UMV", um fórum de discussão que combina os princípios da Máquina de Habermas com assistências de inteligência artificial (IA) utilizando linguagem natural. A Rede UMV é projetada para autoridades governamentais, militares, cientistas e acadêmicos, com o objetivo de otimizar o compartilhamento e a análise de informações de inteligência, assegurando a confiabilidade e a veracidade das fontes. Um aspecto central do fórum é a implementação de um sistema de recompensas baseado em reputação para colaboradores proativos e um sistema de penalidades para comportamentos mal-intencionados, visando prevenir a disseminação de informações falsas e combater a contrainteligência. Este modelo busca promover a deliberação democrática e a tomada de decisões informadas em questões críticas de segurança nacional e políticas públicas.
+
+## Agradecimentos
+
+## Licença
 
 Copyright (c) 2024 - Tiago Ventura
 
