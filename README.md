@@ -21,6 +21,12 @@ Este artigo analisa a "Rede UMV", um fórum destinado ao compartilhamento de inf
 
 A tecnologia de sensores hiperspectrais tem avançado significativamente, proporcionando novas oportunidades para a captura e análise de dados em diversas áreas, como monitoramento de dispositivos eletrônicos e segurança. Este artigo explora o funcionamento dos sensores hiperspectrais, suas aplicações em contextos como visual keylogging e análise da pele, e as implicações éticas associadas ao seu uso. A análise é apoiada por referências acadêmicas relevantes que aprofundam a discussão.
 
+## :pushpin: Glossário
+
+[Glossário](https://github.com/tventuraz/RedeUMV/blob/387bd33ddf3c63c212b6e374e5a4a484d6447bd7/Glossario.md)
+
+Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
+
 ## Agradecimentos
 
 ### Aos meus Filhos
