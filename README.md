@@ -1,6 +1,6 @@
 # Projeto Black Hat: A Engenharia Reversa de um Segredo de Estado 
 
-*por Tiago Ventura*
+*por Tiago Ventura (719.297.891-49)*
 
 ## Rede UMV: Integração da Máquina de Habermas com Assistências de Inteligência Artificial em um Fórum de Discussão de Compartilhamento de Informações de Inteligência para Autoridades Governamentais e Militares
 
