@@ -1,4 +1,4 @@
-# A Rede UMV: Um Sistema Integrado para Classificação e Confiabilidade de Informações de Inteligência
+# Rede UMV: Um Sistema Integrado para Classificação e Confiabilidade de Informações de Inteligência
 
 *por Tiago Ventura [2024-11-01]*
 
