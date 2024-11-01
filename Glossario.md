@@ -213,3 +213,20 @@ Em suma, a "Perplexidade em Árvores de Contextos" representa uma abordagem efic
 -   Hirschberg, J., & Manning, C. D. (2015). _Advances in Natural Language Processing_. Cambridge University Press.
 -   Young, T., Hazarika, D., Poria, S., & Cambria, E. (2018). Recent Trends in Deep Learning Based Natural Language Processing. _IEEE Computational Intelligence Magazine_.
 -   Li, J., & Gimpel, K. (2017). Deep Learning for Dialogue Systems. _arXiv preprint arXiv:1705.03737_.
+-   
+
+### :small_blue_diamond: Habermas Attack
+
+"Habermas attack" refere-se a uma crítica ou contestação que utiliza os princípios da teoria da comunicação de Jürgen Habermas, especialmente em debates sobre deliberação e racionalidade. Esse termo é frequentemente usado para descrever situações em que uma pessoa ou grupo tenta deslegitimar a argumentação de outra parte ao invocar normas de diálogo racional, como a busca por consenso e a igualdade entre os participantes.
+
+Esse tipo de ataque pode ocorrer, por exemplo, quando alguém afirma que a posição do oponente não se baseia em argumentos racionais ou não respeita o espaço de debate público. Em essência, um "Habermas attack" é uma forma de criticar práticas comunicativas que não atendem aos ideais de um diálogo democrático e inclusivo, frequentemente destacando a falta de respeito ou a desinformação.
+
+A teoria de Jürgen Habermas propõe a máquina de Habermas como um modelo ideal de diálogo e deliberação na esfera pública, fundamentado na razão e no respeito mútuo. No entanto, práticas como hoaxes, spamming, flooding e trolling revelam vulnerabilidades que comprometem a eficácia desse sistema.
+
+Hoaxes são fraudes que geram desinformação, dificultando a confiança entre os usuários. O spamming refere-se ao envio excessivo de mensagens indesejadas, que sobrecarrega a comunicação e desvia a atenção dos participantes. O flooding é a inundação de mensagens em um curto espaço de tempo, criando caos no debate. Já o trolling envolve provocações intencionais que desestimulam a participação e o diálogo construtivo, promovendo um ambiente hostil.
+
+Essas práticas afetam a qualidade do discurso e a deliberação racional. Os hoaxes comprometem a formação de opiniões informadas, enquanto o spamming e o flooding dificultam a troca de ideias significativas, silenciando vozes relevantes. O trolling gera conflitos desnecessários, minando a comunicação respeitosa e produtiva, o que prejudica a experiência do usuário nos fóruns.
+
+Essas ações representam vulnerabilidades do sistema de Habermas, afetando a capacidade de discernir a verdade e criando um ambiente que inibe a deliberação racional. Assim, elas dificultam o funcionamento da esfera pública como um espaço de discussão construtiva e respeitosa.
+
+Reconhecer essas vulnerabilidades é crucial para entender os desafios que as comunidades online enfrentam. Para restaurar a eficácia do modelo de Habermas, é necessário implementar medidas que promovam um ambiente de comunicação saudável, respeitosa e orientada para a troca de ideias significativas.
