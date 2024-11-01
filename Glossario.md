@@ -195,3 +195,21 @@ Em resumo, a análise multimodal de emoções através de sensores hiperspectrai
     
 -   **Huang, Y., & Wu, Q. (2018)**. _Integration of Hyperspectral Imaging and Emotion Recognition for Enhanced Security Monitoring_. Proceedings of the SPIE, 10759, 1075902. [DOI: 10.1117/12.2328675]
 
+### :small_blue_diamond: Perplexidade em Árvores de Contextos
+
+Perplexidade em Árvores de Contextos é uma métrica fundamental que mede a incerteza de um modelo de linguagem na previsão da próxima palavra ou resposta em um determinado contexto, organizado em uma estrutura hierárquica. As árvores de contextos são representações gráficas que capturam as relações entre perguntas e respostas, onde cada nó simboliza um estado da conversa — como uma pergunta feita pelo usuário ou uma resposta fornecida pelo sistema — e as arestas conectam esses nós, refletindo as transições lógicas entre eles.
+
+A perplexidade, por sua vez, é uma medida que quantifica a capacidade de um modelo de prever a sequência de palavras. Ela é calculada com base na entropia das distribuições de probabilidade das palavras, permitindo que o modelo avalie quão bem ele está se saindo em prever as palavras subsequentes em um dado contexto. A fórmula para calcular a perplexidade envolve a entropia da distribuição de probabilidade, onde uma menor perplexidade indica que o modelo possui um entendimento mais apurado do contexto e, portanto, é capaz de gerar respostas mais precisas e relevantes.
+
+No contexto de sistemas de perguntas e respostas, a utilização de árvores de contextos combinadas com a avaliação de perplexidade oferece uma maneira robusta de melhorar a interação entre usuários e sistemas de inteligência artificial (IA). A estrutura hierárquica das árvores permite que o modelo considere o histórico da conversa e a sequência de interações, facilitando uma melhor compreensão das intenções do usuário e do contexto em que as perguntas são feitas.
+
+Além disso, a aplicação da perplexidade em árvores de contextos possibilita a identificação de pontos onde o modelo pode estar lutando para prever corretamente a próxima resposta. Isso pode guiar melhorias no treinamento do modelo, ajustando-o para aprender a partir de interações anteriores e aprimorando sua capacidade de fornecer respostas adequadas em situações semelhantes no futuro.
+
+Em suma, a "Perplexidade em Árvores de Contextos" representa uma abordagem eficaz para avaliar e otimizar modelos de linguagem em sistemas interativos. Ao integrar a análise da perplexidade com uma estrutura contextual bem definida, os desenvolvedores podem criar sistemas de perguntas e respostas mais naturais e informativos, promovendo interações mais fluidas e satisfatórias para os usuários.
+
+-   Cover, T. M., & Thomas, J. A. (2006). _Elements of Information Theory_. Wiley-Interscience.
+-   Bahl, L. R., Brown, P. F., & Mercer, R. L. (1989). Modeling the uncertainty of word sequences. _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
+-   Koller, A., & Friedman, N. (2009). _Probabilistic Graphical Models: Principles and Techniques_. MIT Press.
+-   Hirschberg, J., & Manning, C. D. (2015). _Advances in Natural Language Processing_. Cambridge University Press.
+-   Young, T., Hazarika, D., Poria, S., & Cambria, E. (2018). Recent Trends in Deep Learning Based Natural Language Processing. _IEEE Computational Intelligence Magazine_.
+-   Li, J., & Gimpel, K. (2017). Deep Learning for Dialogue Systems. _arXiv preprint arXiv:1705.03737_.
