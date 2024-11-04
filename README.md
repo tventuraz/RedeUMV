@@ -46,6 +46,12 @@ A integração de tecnologias hiperspectrais e radiação ultravioleta (UV) tem 
 
 A UMV (Unidade Móvel de Vigilância) é um sistema multifuncional projetado para aplicações em investigação, segurança e vigilância. Entre suas diversas capacidades, destaca-se o monitoramento da leitura de textos, que utiliza sensores hiperespectrais para detectar o movimento das pupilas (_pupil tracking_) e o reflexo da córnea (_corneal reflection_). Esta funcionalidade é integrada a um sistema de reconhecimento óptico de caracteres (_OCR_) e um mecanismo de text-to-speech (_TTS_). Este trabalho explora como essas capacidades específicas contribuem para a eficácia da UMV nas áreas de investigação e vigilância, além de discutir as implicações éticas de seu uso.
 
+## :pushpin: Infraestrutura UMV: Sistema Óptico Eletrocromático Para Direcionamento e Controle de Convergência/Divergência de Luz Ultravioleta em Aplicações em Espectroscopia
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/EletrocromaticoUV.md)
+
+Este trabalho apresenta um sistema óptico inovador, já desenvolvido e implementado na infraestrutura UMV, que utiliza lentes eletrocromáticas para direcionar o feixe de luz ultravioleta (UV) e controlar sua convergência e divergência. O controle da modulação da luz UV é realizado por um módulo eletrônico que emprega a técnica de modulação por largura de pulso (PWM). Este sistema é projetado para otimizar aplicações em espectroscopia, uma técnica fundamental na análise química e biológica. O uso da luz UV na espectroscopia é promissor para a análise da composição química de tecidos e identificação de anomalias (Smith, 2019). É crucial ressaltar que a exposição inadequada à luz UV convergente pode causar danos aos tecidos humanos, incluindo queimaduras, mutações celulares e aumento do risco de câncer de pele (Zhang et al., 2020). Além disso, o potencial para uso mal-intencionado ou irresponsável da luz UV levanta sérias preocupações éticas e de saúde. A capacidade de direcionar e modular a intensidade do feixe UV, junto com o controle da convergência, melhora a penetração da luz nos tecidos e permite focar o feixe em pontos específicos, aumentando a sensibilidade e a resolução das análises espectrais. Este estudo discute os princípios de funcionamento do sistema, suas aplicações na UMV e os impactos na pesquisa, vigilância e monitoramento de epidemias e segurança epidemiológica.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
