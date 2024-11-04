@@ -1,5 +1,7 @@
 # Riscos do Uso Irresponsável de Sistemas de Vigilância e Monitoramento em Gestantes: Uma Análise das Tecnologias Hiperspectrais Combinadas com Radiação UV
 
+_por Tiago Ventura [2024-11-04]_
+
 ## Abstract
 The integration of hyperspectral technologies and ultraviolet (UV) radiation has led to significant advancements in various fields, including public safety and monitoring. However, the irresponsible application of these surveillance systems to monitor pregnant women, without appropriate distinction, raises serious concerns about the health and well-being of expectant mothers. This paper analyzes the risks associated with the use of surveillance and monitoring systems that do not differentiate pregnant women from other individuals, highlighting the implications for fetal health and the ethical dilemmas involved.
 
