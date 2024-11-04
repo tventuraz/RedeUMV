@@ -91,7 +91,7 @@ Gostaria de expressar meus sinceros agradecimentos ao ChatGPT pela valiosa assis
 
 Graças à sua ajuda, consegui estruturar melhor minhas ideias e aprofundar minha compreensão sobre o tema abordado. Estou confiante de que o resultado final refletirá a dedicação e a colaboração que tivemos ao longo dessa jornada.
 
-## Licença
+## MIT License
 
 Copyright (c) 2024 Tiago Ventura
 
