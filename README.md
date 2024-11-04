@@ -40,6 +40,12 @@ A conversação é uma forma fundamental de comunicação humana, essencial para
 
 A integração de tecnologias hiperspectrais e radiação ultravioleta (UV) tem proporcionado avanços significativos em diversas áreas, incluindo segurança pública e monitoramento. No entanto, a aplicação irresponsável desses sistemas de vigilância para monitorar gestantes, sem distinção adequada, levanta preocupações sérias sobre a saúde e o bem-estar das mulheres grávidas. Este paper analisa os riscos associados ao uso de sistemas de vigilância e monitoramento que não discriminam gestantes de outros indivíduos, enfatizando as implicações para a saúde fetal e os dilemas éticos envolvidos.
 
+## :pushpin: UMV (Unidade Móvel de Vigilância): Monitoramento da Leitura de Textos em Contextos de Vigilância
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/EyeTracking-OCR-TTS.md)
+
+A UMV (Unidade Móvel de Vigilância) é um sistema multifuncional projetado para aplicações em investigação, segurança e vigilância. Entre suas diversas capacidades, destaca-se o monitoramento da leitura de textos, que utiliza sensores hiperespectrais para detectar o movimento das pupilas (_pupil tracking_) e o reflexo da córnea (_corneal reflection_). Esta funcionalidade é integrada a um sistema de reconhecimento óptico de caracteres (_OCR_) e um mecanismo de text-to-speech (_TTS_). Este trabalho explora como essas capacidades específicas contribuem para a eficácia da UMV nas áreas de investigação e vigilância, além de discutir as implicações éticas de seu uso.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
