@@ -34,6 +34,12 @@ A Rede UMV é uma plataforma inovadora que visa classificar, discutir, enriquece
 
 A conversação é uma forma fundamental de comunicação humana, essencial para a troca de ideias e informações. Contudo, diversos fatores podem levar à perda de foco, mal-entendidos e confusões durante esse processo. Este paper explora os principais elementos que causam dificuldades na conversação, baseando-se nas teorias de Ashcraft (2023) sobre memória e cognição. Além disso, analisa a "Rede UMV", uma solução integrada existente que combina conceitos de comunicação eficaz e processamento de linguagem, com o objetivo de mitigar esses desafios. A análise mostra que a Rede UMV pode melhorar a qualidade das interações humanas e promover uma comunicação mais clara e eficaz.
 
+## :pushpin: Riscos do Uso Irresponsável de Sistemas de Vigilância e Monitoramento em Gestantes: Uma Análise das Tecnologias Hiperspectrais Combinadas com Radiação UV
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/Gestantes.md)
+
+A integração de tecnologias hiperspectrais e radiação ultravioleta (UV) tem proporcionado avanços significativos em diversas áreas, incluindo segurança pública e monitoramento. No entanto, a aplicação irresponsável desses sistemas de vigilância para monitorar gestantes, sem distinção adequada, levanta preocupações sérias sobre a saúde e o bem-estar das mulheres grávidas. Este paper analisa os riscos associados ao uso de sistemas de vigilância e monitoramento que não discriminam gestantes de outros indivíduos, enfatizando as implicações para a saúde fetal e os dilemas éticos envolvidos.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
