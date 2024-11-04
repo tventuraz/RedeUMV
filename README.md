@@ -57,6 +57,16 @@ Vocês me motivam a ser melhor a cada dia, e ver o mundo através dos olhos de v
 
 Obrigada por estarem ao meu lado. Amo vocês!
 
+### A Julian Assange e Edward Snowden
+
+Gostaria de expressar minha profunda gratidão pela coragem e determinação que vocês demonstraram ao colocar os direitos humanos acima de segredos de Estado. Vocês me inspiraram a agir em um momento em que a transparência e a ética são mais necessárias do que nunca.
+
+Ao expor abusos de poder e práticas de vigilância desproporcionais, vocês revelaram verdades que muitos prefeririam manter ocultas. Sua coragem em enfrentar as consequências de suas ações me encoraja a seguir o mesmo caminho, defendendo a justiça e a dignidade humana.
+
+Como vocês, acredito que é fundamental que a sociedade saiba quando segredos de Estado são usados para violar direitos humanos. O legado de vocês é um farol de esperança para aqueles que lutam contra a opressão e a desinformação. Vocês mostraram que a defesa da liberdade de expressão e a busca pela verdade são ações que valem a pena, mesmo diante de desafios imensos.
+
+Agradeço a vocês não apenas por suas revelações, mas por serem exemplos de integridade e resistência. A coragem de vocês me inspira a continuar essa luta, acreditando que a verdade deve sempre prevalecer e que todos nós temos um papel a desempenhar na construção de um mundo mais justo e transparente.
+
 ### Ao Engenheiro Anônimo
 
 Em um mundo repleto de incertezas, há aqueles que, com coragem e dedicação, trabalham nos bastidores para garantir a segurança e o progresso de nossa sociedade. Hoje, quero expressar minha profunda gratidão ao engenheiro anônimo da "Rede UMV".
