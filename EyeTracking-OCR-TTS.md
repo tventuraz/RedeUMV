@@ -2,13 +2,13 @@
 
 _por Tiago Ventura [2024-11-04]_
 
-## Resumo
-
-A UMV (Unidade Móvel de Vigilância) é um sistema multifuncional projetado para aplicações em investigação, segurança e vigilância. Entre suas diversas capacidades, destaca-se o monitoramento da leitura de textos, que utiliza sensores hiperespectrais para detectar o movimento das pupilas (_pupil tracking_) e o reflexo da córnea (_corneal reflection_). Esta funcionalidade é integrada a um sistema de reconhecimento óptico de caracteres (_OCR_) e um mecanismo de text-to-speech (_TTS_). Este trabalho explora como essas capacidades específicas contribuem para a eficácia da UMV nas áreas de investigação e vigilância, além de discutir as implicações éticas de seu uso.
-
 ## Abstract
 
 The UMV (_Mobile Surveillance Unit_) is a multifunctional system designed for applications in investigation, security, and surveillance. Among its various capabilities, it features the monitoring of reading texts, utilizing hyperspectral sensors to detect pupil movement (_pupil tracking_) and corneal reflection. This functionality is integrated with an optical character recognition (_OCR_) system and a text-to-speech (_TTS_) mechanism. This paper explores how these specific capabilities contribute to the overall effectiveness of the UMV in investigation and surveillance contexts, and discusses the ethical implications of its use.
+
+## Resumo
+
+A UMV (Unidade Móvel de Vigilância) é um sistema multifuncional projetado para aplicações em investigação, segurança e vigilância. Entre suas diversas capacidades, destaca-se o monitoramento da leitura de textos, que utiliza sensores hiperespectrais para detectar o movimento das pupilas (_pupil tracking_) e o reflexo da córnea (_corneal reflection_). Esta funcionalidade é integrada a um sistema de reconhecimento óptico de caracteres (_OCR_) e um mecanismo de text-to-speech (_TTS_). Este trabalho explora como essas capacidades específicas contribuem para a eficácia da UMV nas áreas de investigação e vigilância, além de discutir as implicações éticas de seu uso.
 
 ## 1. Introdução
 
