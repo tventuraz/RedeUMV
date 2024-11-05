@@ -72,7 +72,7 @@ A vibrometria óptica hiperespectral (VOH) é uma tecnologia emergente que utili
 
 ## 📌 Análise Multimodal de Emoções para Segurança e Vigilância utilizando Sensores Hiperspectrais: Uma Abordagem Integrada para Monitoramento Emocional e Fisiológico
 
-[Paper](https://github.com/tventuraz/RedeUMV/blob/main/AnaliseMultimodalIA.md)
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/AnaliseMultimodalAI.md)
 
 A análise multimodal de emoções utilizando sensores hiperspectrais, expressões faciais, gesticulação e tom de voz oferece uma abordagem inovadora para monitoramento emocional e fisiológico em tempo real, com amplas aplicações em segurança e vigilância. Este trabalho explora como a integração de dados fisiológicos, como fluxo sanguíneo, batimentos cardíacos, respiração e temperatura, com indicadores comportamentais, como expressões faciais, gestos e características acústicas, pode aprimorar a detecção de estados emocionais, incluindo medo, agressividade, dor, cansaço, entre outros. Ao integrar essas diferentes fontes de dados com inteligência artificial (IA), é possível prever comportamentos de risco, antecipando ações de segurança em ambientes críticos. O estudo discute as implicações dessa tecnologia para a segurança pública, controle de acesso e gestão de crises, além de apresentar uma revisão das técnicas utilizadas para essa análise multimodal.
 
