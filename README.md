@@ -58,6 +58,12 @@ Este trabalho apresenta um sistema óptico inovador, já desenvolvido e implemen
 
 O uso de sensores hiperespectrais em equipamentos móveis de vigilância (UMV) tem revolucionado as tecnologias de identificação biométrica, oferecendo uma solução robusta para a segurança pública e o monitoramento urbano. Este estudo examina a aplicação dessas tecnologias para reconhecimento facial, análise da arcada dentária e identificação do formato craniano, com destaque para suas capacidades de operar mesmo quando os indivíduos estão com o rosto parcialmente ou totalmente coberto, como no caso do uso de chapéus, óculos, capuzes ou até quando tampam a face com as mãos. Equipamentos móveis de vigilância (UMV), que operam de forma autônoma, podem acessar remotamente a infraestrutura de sensores hiperespectrais instalados em pontos estratégicos, proporcionando uma vigilância dinâmica e altamente eficaz. A combinação dessas técnicas biométricas melhora a precisão das identificações, mesmo em cenários desafiadores, como ambientes urbanos movimentados ou quando os indivíduos tentam ocultar suas características faciais.
 
+## :pushpin: Trolling como Ataque à Coesão do Contexto em Ambientes de Interação Humano-IA: Desafios e Estratégias de Mitigação
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/TrollingChatIA.md)
+
+Este trabalho explora o fenômeno do trolling em plataformas de interação que envolvem tanto humanos quanto inteligências artificiais (IAs), com foco particular em como o trolling pode ser utilizado como um ataque à coesão do contexto. O trolling, entendido como a prática de desviar a atenção e diluir o foco de uma conversa, é uma técnica de manipulação discursiva que visa interromper o fluxo de pensamento e enfraquecer a continuidade lógica das interações. Ao analisar o impacto do trolling em discussões mediadas por IA, o artigo propõe estratégias para mitigar esse ataque, com base em modelos avançados de IA, como os que utilizam a arquitetura Transformer, que têm como objetivo manter a coesão e a relevância do contexto durante conversas complexas. Em particular, discutimos como a atenção multi-cabeça, a memória de longo prazo e técnicas de gestão de contexto podem ser usadas para identificar e neutralizar táticas de trolling em tempo real.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
