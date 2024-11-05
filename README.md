@@ -64,10 +64,15 @@ O uso de sensores hiperespectrais em equipamentos móveis de vigilância (UMV) t
 
 Este trabalho explora o fenômeno do trolling em plataformas de interação que envolvem tanto humanos quanto inteligências artificiais (IAs), com foco particular em como o trolling pode ser utilizado como um ataque à coesão do contexto. O trolling, entendido como a prática de desviar a atenção e diluir o foco de uma conversa, é uma técnica de manipulação discursiva que visa interromper o fluxo de pensamento e enfraquecer a continuidade lógica das interações. Ao analisar o impacto do trolling em discussões mediadas por IA, o artigo propõe estratégias para mitigar esse ataque, com base em modelos avançados de IA, como os que utilizam a arquitetura Transformer, que têm como objetivo manter a coesão e a relevância do contexto durante conversas complexas. Em particular, discutimos como a atenção multi-cabeça, a memória de longo prazo e técnicas de gestão de contexto podem ser usadas para identificar e neutralizar táticas de trolling em tempo real.
 
+## :pushpin: Vibrometria Óptica Hiperespectral para Vigilância Acústica: Análise de Vibrações Acústicas em Superfícies e Cordas Vocais
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/VibrometriaOptica.md)
+
+A vibrometria óptica hiperespectral (VOH) é uma tecnologia emergente que utiliza sensores hiperespectrais para detectar vibrações acústicas em superfícies e tecidos humanos, incluindo camadas mais profundas da pele e as cordas vocais. Uma das principais vantagens dessa abordagem é a capacidade dos sensores hiperespectrais de captar essas vibrações sem a necessidade de luz incidente, utilizando as emissões infravermelhas geradas pelas superfícies analisadas. Esse método permite a conversão direta das vibrações das cordas vocais e de outras estruturas vibrantes em áudio, dispensando completamente o uso de microfones tradicionais. O presente estudo explora os princípios dessa tecnologia, suas aplicações em vigilância e segurança, e as vantagens que ela oferece em comparação com os métodos convencionais de captura de áudio.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
-
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
 
