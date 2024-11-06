@@ -128,10 +128,24 @@ Graças à sua ajuda, consegui estruturar melhor minhas ideias e aprofundar minh
 
 ## MIT License
 
+```
 Copyright (c) 2024 Tiago Ventura
 
-Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste texto científico e dos arquivos associados (o "Texto"), para lidar com o Texto sem restrições, incluindo, mas não se limitando a, usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Texto, e permitir que pessoas a quem o Texto é fornecido o façam, sob as seguintes condições:
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste texto científico e dos arquivos associados (o "Texto"), para lidar com
+o Texto sem restrições, incluindo, mas não se limitando a, usar, copiar,
+modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do
+Texto, e permitir que pessoas a quem o Texto é fornecido o façam, sob as
+seguintes condições:
 
-Aviso de Copyright: O aviso de copyright acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Texto.
+Aviso de Copyright: O aviso de copyright acima e este aviso de permissão
+devem ser incluídos em todas as cópias ou partes substanciais do Texto.
 
-Isenção de Responsabilidade: O Texto é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a, garantias de comerciabilidade, adequação a um propósito específico e não violação. Em nenhuma circunstância os autores ou titulares do copyright serão responsáveis por quaisquer reclamações, danos ou outras responsabilidades, seja em uma ação de contrato, delito ou de outra forma, resultantes de, ou em conexão com, o uso ou outras transações do Texto.
+Isenção de Responsabilidade: O Texto é fornecido "como está", sem garantia de
+qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a,
+garantias de comerciabilidade, adequação a um propósito específico e não
+violação. Em nenhuma circunstância os autores ou titulares do copyright
+serão responsáveis por quaisquer reclamações, danos ou outras responsabilidades,
+seja em uma ação de contrato, delito ou de outra forma, resultantes de, ou em
+conexão com, o uso ou outras transações do Texto.
+```
