@@ -324,11 +324,11 @@ Em resumo, os sistemas de recompensa são essenciais para otimizar o desempenho 
 
 ---
 
-### 🔹Speech-to-Text (STT)
+### 🔹 Speech-to-Text (STT)
 
 **Speech-to-Text (STT)**, ou **Reconhecimento Automático de Fala** (ASR, *Automatic Speech Recognition*), é uma tecnologia que permite a conversão de áudio de fala humana em texto escrito. Essa tecnologia se baseia em algoritmos de processamento de sinal de áudio e aprendizado de máquina para identificar, transcrever e converter palavras faladas em texto.
 
-#### Etapas do Processo de STT:
+**Etapas do Processo de STT**:
 
 1. **Aquisição do Áudio**: O primeiro passo para o reconhecimento de fala é a captura do áudio. Para isso, utiliza-se um microfone ou outro dispositivo de gravação de som, que captura a fala humana em tempo real. A qualidade da captura do áudio é fundamental, pois ruídos ou distorções podem comprometer a precisão da transcrição.
 
@@ -346,11 +346,11 @@ Em resumo, os sistemas de recompensa são essenciais para otimizar o desempenho 
 
 ---
 
-### 🔹Text-to-Speech (TTS)
+### 🔹 Text-to-Speech (TTS)
 
 **Text-to-Speech (TTS)**, ou **Texto-para-Fala**, é a tecnologia que converte texto escrito em fala sintetizada. O TTS é utilizado em dispositivos que precisam "falar" com o usuário, como assistentes virtuais, navegadores de internet, sistemas de leitura de tela e outros. Essa tecnologia é capaz de gerar uma simulação da fala humana a partir de representações textuais.
 
-#### Etapas do Processo de TTS:
+**Etapas do Processo de TTS**:
 
 1. **Análise do Texto**: O primeiro passo em um sistema TTS é processar o texto para entendê-lo corretamente. Isso envolve duas fases:
    - **Análise ortográfica**: O sistema precisa converter abreviações e números em sua forma verbal completa (por exemplo, "Dr." se torna "Doutor").
