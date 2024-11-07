@@ -2,6 +2,8 @@
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
 
+---
+
 ### 🔹 UMV
 
 A rede UMV é uma infraestrutura avançada de inteligência, vigilância e monitoramento desenvolvida para garantir a segurança nacional e fornecer informações precisas às autoridades responsáveis pela proteção do Brasil. Esta rede integra tecnologias de ponta para coleta e processamento de dados, além de uma estrutura descentralizada de unidades operacionais. A administração da UMV é responsabilidade exclusiva das Forças Armadas do Brasil, que coordenam as operações e asseguram a eficácia do sistema. A rede é classificada como um segredo de estado, com um rigoroso protocolo de segurança e proteção das informações sensíveis. Além disso, a UMV incorpora assistências por inteligência artificial, que utilizam linguagem natural para otimizar o processamento de dados e moderar as interações dentro da rede.
@@ -20,6 +22,8 @@ A rede UMV é um sistema estratégico e integrado, composto por tecnologias avan
 
 A capacidade de processar grandes volumes de dados, aliada à inteligência artificial, permite uma resposta rápida e coordenada a qualquer ameaça, enquanto a descentralização da rede garante agilidade e resiliência nas operações. O sigilo e a proteção das informações são garantidos por rigorosos protocolos de segurança, alinhados ao status de segredo de estado, assegurando a confidencialidade e a integridade de todo o processo. A UMV, ao unir tecnologia avançada e a expertise das Forças Armadas, fortalece a capacidade de defesa do Brasil, assegurando a proteção da soberania e a segurança de seus cidadãos.
 
+---
+
 ###  :small_blue_diamond: Sensor/Câmera Hiperspectral
 
 Um sensor hiperspectral pode ser considerado uma câmera de larga banda que captura e analisa informações de luz em uma ampla gama de comprimentos de onda, incluindo o espectro visível, ultravioleta e infravermelho. Diferente das câmeras convencionais, que operam em apenas três bandas (vermelho, verde e azul), os sensores hiperspectrais coletam dados em centenas de bandas, permitindo uma análise espectral detalhada que facilita a identificação precisa de materiais e a detecção de mudanças em superfícies e ambientes.
@@ -27,6 +31,8 @@ Um sensor hiperspectral pode ser considerado uma câmera de larga banda que capt
 Na medicina, esses sensores oferecem aplicações inovadoras e promissoras, especialmente na detecção precoce de doenças, como o câncer. Eles têm a capacidade de detectar e analisar tecidos mais profundos abaixo da pele, proporcionando informações valiosas em tempo real durante procedimentos cirúrgicos. Isso permite a identificação de áreas malignas com maior precisão. Além disso, na dermatologia, os sensores hiperspectrais são utilizados para avaliar condições da pele, reconhecendo variações que podem indicar doenças. Essa análise avançada proporciona diagnósticos mais eficazes e menos invasivos, ampliando as possibilidades de tratamento e o monitoramento dos pacientes.
 
 No campo da segurança pública, os sensores hiperspectrais desempenham um papel crucial na detecção de objetos ocultos, como armas de fogo e armas brancas, que podem estar escondidas sob a roupa de suspeitos ou dentro de malas e bolsas. Essa tecnologia permite a identificação de materiais que não seriam facilmente detectáveis por métodos convencionais, aumentando a eficácia das operações de segurança. Em situações de emergência, como desastres naturais, os sensores também podem auxiliar na avaliação de danos, permitindo que equipes de resgate localizem pessoas ou recursos de forma mais eficiente. A integração de tecnologia hiperspectral em sistemas de segurança pública representa um avanço significativo na coleta e análise de informações críticas, resultando em respostas mais rápidas e eficazes a incidentes.
+
+---
 
 ### :small_blue_diamond: Luz/Radição Ultravioleta
 
@@ -40,6 +46,8 @@ A luz ultravioleta também é valiosa na esterilização de equipamentos e área
 
 No entanto, é importante ressaltar que a exposição excessiva à radiação UV pode causar danos à saúde de qualquer ser humano, independentemente da situação. Os efeitos incluem queimaduras, envelhecimento prematuro da pele e aumento do risco de câncer. Por isso, a proteção adequada é essencial, especialmente em contextos onde a luz ultravioleta é utilizada de forma intensiva.
 
+---
+
 ### :small_blue_diamond: Espectroscopia
 
 A espectroscopia é uma técnica essencial na ciência que explora como a radiação eletromagnética interage com a matéria. Essa interação ocorre quando a luz (ou outra forma de radiação) é absorvida, emitida ou dispersa por átomos e moléculas. Ao analisar os espectros resultantes dessas interações, os cientistas podem obter informações valiosas sobre a composição química, estrutura e propriedades físicas de uma amostra.
@@ -49,6 +57,8 @@ Existem várias modalidades de espectroscopia, cada uma adequada para diferentes
 Outro tipo importante é a espectroscopia de fluorescência, que estuda a luz emitida por uma substância após ser excitada por radiação. Essa técnica é altamente sensível e é frequentemente utilizada em biologia molecular e química para rastrear biomoléculas e interações celulares. Já a espectroscopia Raman explora as vibrações moleculares e é particularmente útil para estudar estruturas em estado sólido e líquidos.
 
 A espectroscopia é amplamente aplicada em diversas áreas, como a química analítica, onde é utilizada para identificar e quantificar substâncias em misturas complexas. Na medicina, técnicas espectroscópicas são usadas para diagnosticar doenças e monitorar tratamentos. Além disso, na indústria, a espectroscopia ajuda no controle de qualidade e no desenvolvimento de novos materiais. Em resumo, a espectroscopia é uma ferramenta poderosa que fornece uma janela para a compreensão da matéria em nível molecular.
+
+---
 
 ### :small_blue_diamond: Espectroscopia com Radiação/Luz Ultravioleta
 
@@ -63,6 +73,8 @@ O funcionamento da espectroscopia UV baseia-se na absorção de luz por molécul
 Entre as vantagens dessa técnica, destacam-se a rapidez, a sensibilidade e a capacidade de análise em amostras em solução, além da possibilidade de investigar camadas mais profundas. Contudo, a espectroscopia UV também enfrenta limitações, como a interferência de solventes e a necessidade de que as amostras contenham grupos funcionais que absorvam UV.
 
 Em resumo, a espectroscopia UV é uma ferramenta poderosa, não apenas para análises químicas, mas também em contextos médicos e militares, permitindo a identificação e quantificação de substâncias com base em suas propriedades de absorção de luz, e ampliando a capacidade de análise ao explorar camadas mais profundas das amostras.
+
+---
 
 ### :small_blue_diamond: Máquina de Habermas
 
@@ -82,6 +94,8 @@ O objetivo central da teoria da ação comunicativa é promover um entendimento 
 
 Essa teoria tem influenciado diversas áreas, incluindo sociologia, filosofia política, educação e, claro, inteligência. Ao fornecer uma base sólida para entender como as interações sociais podem ser aprimoradas na busca pela verdade, a teoria de Habermas contribui para a eficácia das operações de inteligência, ajudando a construir sociedades mais informadas e críticas.
 
+---
+
 ### :small_blue_diamond: Assistência por Inteligência Artificial (IA)
 
 A assistência por inteligência artificial (IA) através de interfaces homem-máquina (IHM) que utilizam linguagem natural é um campo em rápida evolução, permitindo uma comunicação mais intuitiva entre usuários e máquinas. Um dos elementos fundamentais para o sucesso desses sistemas é o treinamento das IAs, que se baseia em um conjunto robusto de técnicas e metodologias.
@@ -97,6 +111,8 @@ Além disso, a Geração de Linguagem Natural (GLN) é aprimorada através de um
 A Integração com Sistemas e APIs também depende de um treinamento eficaz. Durante o desenvolvimento, as IAs são configuradas para entender como se conectar e interagir com diferentes sistemas, permitindo que realizem tarefas complexas, como agendamentos e buscas de dados, tudo isso a partir de comandos em linguagem natural.
 
 Em suma, o treinamento das IAs é um componente essencial que influencia todos os aspectos de sua operação. Ele não apenas capacita os sistemas a realizar tarefas específicas, mas também aprimora a experiência do usuário, tornando a interação com máquinas mais natural e intuitiva. A combinação de PLN, ML e GLN, todas fundamentadas em um treinamento sólido, representa um avanço significativo na forma como humanos e máquinas se comunicam.
+
+---
 
 ### :small_blue_diamond: Keylogging
 
@@ -120,6 +136,8 @@ Estimation and Triangulation](https://ijirt.org/publishedpaper/IJIRT166131_PAPER
 
  - [Electromagnetic Eavesdropping Risks of
 Flat-Panel Displays](https://www.cl.cam.ac.uk/~mgk25/pet2004-fpd.pdf)
+
+---
 
 ### :small_blue_diamond: Eye-Tracking (rastreamento ocular)
 
@@ -149,7 +167,9 @@ A diversidade de técnicas de keylogging, incluindo software, hardware, visual k
 -   **Itti, L., & Koch, C. (2001).** "Computational Modeling of Visual Attention." _Nature Reviews Neuroscience_, 2(3), 194-203.
     
 -   **Li, Y., & W. Wang, J. (2013).** "Real-time eye tracking using face detection and image processing techniques." _Journal of Visual Communication and Image Representation_, 24(5), 533-540.
-    
+
+---
+
 ### :small_blue_diamond: Vibrometria Óptica
 
 O monitoramento acústico em um recinto utilizando a luz ambiente é uma técnica inovadora que explora a interação entre ondas sonoras e a luz. Essa abordagem é especialmente relevante em contextos de espionagem, vigilância e monitoramento, permitindo a captura e análise de sons sem a necessidade de microfones convencionais.
@@ -185,6 +205,8 @@ Em resumo, embora um sensor hiperspectral com um tempo de regeneração adequado
 
 -  **Guoming Zhang, Zhijie Xiang, Heqiang Fu, Yanni Yang, and Pengfei Hu** - ["EchoLight: Sound Eavesdropping based on Ambient Light Reflection"](https://perfecthu.github.io/publications/INFOCOM24-EchoLight.pdf) em _School of Computer Science and Technology, Shandong University, China_.
 
+---
+
 ### :small_blue_diamond: Análise Multimodal de Emoções
 
 A análise de emoções por meio de sensores hiperspectrais representa um avanço significativo na área de segurança e vigilância. Essa tecnologia oferece uma abordagem inovadora para monitorar e interpretar as emoções humanas, sendo particularmente útil em situações críticas, onde a segurança é uma prioridade.
@@ -213,6 +235,8 @@ Em resumo, a análise de emoções utilizando sensores hiperspectrais oferece um
     
 -   **Huang, Y., & Wu, Q. (2018)**. _Integration of Hyperspectral Imaging and Emotion Recognition for Enhanced Security Monitoring_. Proceedings of the SPIE, 10759, 1075902. [DOI: 10.1117/12.2328675]
 
+---
+
 ### :small_blue_diamond: Perplexidade em Árvores de Contextos
 
 Perplexidade em Árvores de Contextos é uma métrica fundamental que mede a incerteza de um modelo de linguagem na previsão da próxima palavra ou resposta em um determinado contexto, organizado em uma estrutura hierárquica. As árvores de contextos são representações gráficas que capturam as relações entre perguntas e respostas, onde cada nó simboliza um estado da conversa — como uma pergunta feita pelo usuário ou uma resposta fornecida pelo sistema — e as arestas conectam esses nós, refletindo as transições lógicas entre eles.
@@ -232,6 +256,7 @@ Em suma, a "Perplexidade em Árvores de Contextos" representa uma abordagem efic
 -   Young, T., Hazarika, D., Poria, S., & Cambria, E. (2018). Recent Trends in Deep Learning Based Natural Language Processing. _IEEE Computational Intelligence Magazine_.
 -   Li, J., & Gimpel, K. (2017). Deep Learning for Dialogue Systems. _arXiv preprint arXiv:1705.03737_.
   
+---
 
 ### :small_blue_diamond: Habermas Attack
 
@@ -248,6 +273,8 @@ Essas práticas afetam a qualidade do discurso e a deliberação racional. Os ho
 Essas ações representam vulnerabilidades do sistema de Habermas, afetando a capacidade de discernir a verdade e criando um ambiente que inibe a deliberação racional. Assim, elas dificultam o funcionamento da esfera pública como um espaço de discussão construtiva e respeitosa.
 
 Reconhecer essas vulnerabilidades é crucial para entender os desafios que as comunidades online enfrentam. Para restaurar a eficácia do modelo de Habermas, é necessário implementar medidas que promovam um ambiente de comunicação saudável, respeitosa e orientada para a troca de ideias significativas.
+
+---
 
 ### :small_blue_diamond: Lentes Eletrocrômicas
 
@@ -272,6 +299,8 @@ Em resumo, as lentes eletrocrômicas representam uma inovação significativa no
 - **Trave, A., et al. (2018).** Design and implementation of electrochromic lenses for high-performance optical systems. *Optical Materials Express, 8(10), 3084-3092.*
 - **Zhang, L., et al. (2017).** Applications of electrochromic materials in UV spectrometry. *Journal of Spectroscopy, 45(12), 1150-1160.*
 
+---
+
 ### :small_blue_diamond: Sistemas de Recompensa IA
 
 Os sistemas de recompensa desempenham um papel crucial no treinamento de inteligências artificiais (IAs), especialmente em ambientes interativos como fóruns e chats de perguntas e respostas. Esses sistemas de aprendizado, baseados em feedback contínuo, permitem que a IA melhore seu desempenho por meio de recompensas e penalidades, ajustando suas respostas de acordo com a qualidade das ações executadas. Com o tempo, a IA se torna mais eficiente na interação, aprimorando a precisão e relevância de suas respostas, o que a torna um recurso valioso em plataformas de aprendizado colaborativo (Sutton & Barto, 2018).
@@ -293,3 +322,51 @@ Em resumo, os sistemas de recompensa são essenciais para otimizar o desempenho 
   - Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). **Attention is all you need**. *Neural Information Processing Systems (NeurIPS)*.  
   - Zhang, Y., Zhao, X., Li, Z., et al. (2020). **A Survey of Moderation in Online Communities: Challenges, Solutions, and Future Directions**. *ACM Computing Surveys (CSUR)*, 53(4), 1-35.  
 
+---
+
+### 🔹Speech-to-Text (STT)
+
+**Speech-to-Text (STT)**, ou **Reconhecimento Automático de Fala** (ASR, *Automatic Speech Recognition*), é uma tecnologia que permite a conversão de áudio de fala humana em texto escrito. Essa tecnologia se baseia em algoritmos de processamento de sinal de áudio e aprendizado de máquina para identificar, transcrever e converter palavras faladas em texto.
+
+#### Etapas do Processo de STT:
+
+1. **Aquisição do Áudio**: O primeiro passo para o reconhecimento de fala é a captura do áudio. Para isso, utiliza-se um microfone ou outro dispositivo de gravação de som, que captura a fala humana em tempo real. A qualidade da captura do áudio é fundamental, pois ruídos ou distorções podem comprometer a precisão da transcrição.
+
+2. **Pré-processamento do Áudio**: Uma vez que o áudio é capturado, ele passa por um processo de pré-processamento. Isso inclui a remoção de ruídos de fundo (como o uso de filtros), normalização de volume, e a segmentação do áudio em unidades menores, como fonemas e palavras. Este processo é essencial para preparar o áudio para os estágios subsequentes.
+
+3. **Extração de Características**: A próxima etapa envolve a extração de características acústicas a partir do áudio. Isso geralmente é feito utilizando transformadas matemáticas como a **Transformada de Fourier** ou o **Mel-Frequency Cepstral Coefficient (MFCC)**, que ajudam a representar a fala em termos de padrões acústicos.
+
+4. **Reconhecimento de Padrões Acústicos**: Utilizando técnicas de **Machine Learning** (aprendizado de máquina), o sistema tenta reconhecer os padrões acústicos associados a fonemas (os sons básicos da fala). Modelos baseados em redes neurais, como **Modelos Ocultos de Markov** (HMMs) ou **Redes Neurais Profundas** (DNNs), são comumente usados para essa tarefa. Esses modelos treinam com grandes volumes de dados de fala e aprendem a mapear características acústicas para palavras ou fonemas.
+
+5. **Decodificação e Transcrição**: Após o reconhecimento dos fonemas, o sistema utiliza um **dicionário de palavras** e um modelo de linguagem para formar o texto completo. A **probabilidade estatística** das sequências de palavras é calculada, permitindo que o sistema decida qual sequência de palavras tem maior probabilidade de ser a correta.
+
+- Jurafsky, D., & Martin, J. H. (2021). **Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition**. Pearson.
+- Hinton, G., et al. (2012). **Deep Neural Networks for Acoustic Modeling in Speech Recognition**. IEEE Signal Processing Magazine.
+- Huang, X., Acero, A., & Hon, H.-W. (2001). **Spoken Language Processing: A Guide to Theory, Algorithm, and System Development**. Prentice Hall.
+
+---
+
+### 🔹Text-to-Speech (TTS)
+
+**Text-to-Speech (TTS)**, ou **Texto-para-Fala**, é a tecnologia que converte texto escrito em fala sintetizada. O TTS é utilizado em dispositivos que precisam "falar" com o usuário, como assistentes virtuais, navegadores de internet, sistemas de leitura de tela e outros. Essa tecnologia é capaz de gerar uma simulação da fala humana a partir de representações textuais.
+
+#### Etapas do Processo de TTS:
+
+1. **Análise do Texto**: O primeiro passo em um sistema TTS é processar o texto para entendê-lo corretamente. Isso envolve duas fases:
+   - **Análise ortográfica**: O sistema precisa converter abreviações e números em sua forma verbal completa (por exemplo, "Dr." se torna "Doutor").
+   - **Análise linguística**: Considera as regras gramaticais e de pontuação para determinar a prosódia (intonação, ritmo e pausa) da fala. Isso pode envolver o uso de técnicas de **análise sintática** e **semântica** para compreender o significado do texto.
+
+2. **Conversão Fonética**: Após o processamento inicial, o texto é convertido em **fonemas**, que são os menores elementos de som da fala. Isso envolve um dicionário de pronúncia ou um sistema de regras fonológicas que determina como as palavras são pronunciadas em diferentes contextos linguísticos.
+
+3. **Síntese de Fala**: A etapa final é a síntese propriamente dita, onde os fonemas são transformados em uma onda sonora. Existem diferentes abordagens para essa síntese:
+   - **Síntese Concatenativa**: Utiliza gravações de falas humanas. Ela divide as palavras em pedaços pequenos (como fonemas ou sílabas) e os concatena para formar a fala. Essa técnica tem a vantagem de ser simples e produzir resultados realistas, mas pode resultar em transições artificiais entre os segmentos.
+   - **Síntese Paramétrica**: Usa modelos matemáticos para gerar fala. A partir de parâmetros como pitch (tom), ritmo e intensidade, o sistema cria uma fala de forma mais flexível, mas que pode parecer mais robótica.
+   - **Síntese Neural**: Utiliza redes neurais profundas, como o **WaveNet** (desenvolvido pela DeepMind), para gerar fala com uma qualidade extremamente natural. Esses modelos aprendem diretamente a gerar áudio de alta qualidade a partir de textos, resultando em uma fala fluida e com menos "artefatos" perceptíveis.
+
+4. **Adaptação Prosódica**: A prosódia, que envolve o ritmo, o tom e a entonação da fala, é crucial para tornar a fala gerada mais natural. Modelos avançados, como o **Tacotron** e o **FastSpeech**, utilizam redes neurais para prever as variações na entonação, fazendo a fala soar mais humana.
+
+- Taylor, P. (2009). **Text-to-Speech Synthesis**. Cambridge University Press.
+- Schalkwyk, J., & Yamagishi, J. (2018). **Deep Learning for Text-to-Speech Synthesis**. Springer.
+- van den Oord, A., et al. (2016). **WaveNet: A Generative Model for Raw Audio**. arXiv preprint arXiv:1609.03499.
+
+---
