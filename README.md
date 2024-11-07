@@ -82,6 +82,12 @@ A vibrometria óptica hiperespectral (VOH) é uma tecnologia emergente que utili
 
 A análise multimodal de emoções utilizando sensores hiperspectrais, expressões faciais, gesticulação e tom de voz oferece uma abordagem inovadora para monitoramento emocional e fisiológico em tempo real, com amplas aplicações em segurança e vigilância. Este trabalho explora como a integração de dados fisiológicos, como fluxo sanguíneo, batimentos cardíacos, respiração e temperatura, com indicadores comportamentais, como expressões faciais, gestos e características acústicas, pode aprimorar a detecção de estados emocionais, incluindo medo, agressividade, dor, cansaço, entre outros. Ao integrar essas diferentes fontes de dados com inteligência artificial (IA), é possível prever comportamentos de risco, antecipando ações de segurança em ambientes críticos. O estudo discute as implicações dessa tecnologia para a segurança pública, controle de acesso e gestão de crises, além de apresentar uma revisão das técnicas utilizadas para essa análise multimodal.
 
+## 📌 13) Sistema Multimodal de Comunicação por Mensagens Verbais com Moderação Contextual, TTS e Preservação de Identidade para Ambientes de Chat e Suas Aplicações em Serviços de Inteligência
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/Chat-STT-TTS.md)
+
+Este artigo propõe um sistema multimodal de comunicação desenvolvido para melhorar a interação em chats por meio de mensagens verbais, utilizando as tecnologias de Speech-to-Text (STT), aplicação de regras de sintaxe e morfologia, moderação contextual e Text-to-Speech (TTS). O sistema permite que as mensagens verbais sejam transcritas em texto e exibidas no chat, ao mesmo tempo em que uma versão sintetizada em áudio é enviada aos participantes. A transcrição é ajustada para corrigir erros gramaticais e melhorar a clareza. Além disso, a moderação contextual valida a relevância da mensagem dentro do contexto da conversa, bloqueando ou ajustando mensagens fora de tema. Uma característica importante do sistema é a preservação da identidade dos usuários, já que a voz sintetizada não guarda relação com a voz original, protegendo a privacidade dos participantes. O sistema tem aplicações significativas em ambientes de inteligência, como no contexto de serviços de informações, onde a segurança, privacidade e precisão das interações são essenciais.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
