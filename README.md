@@ -88,6 +88,12 @@ A análise multimodal de emoções utilizando sensores hiperspectrais, expressõ
 
 Este artigo propõe um sistema multimodal de comunicação desenvolvido para melhorar a interação em chats por meio de mensagens verbais, utilizando as tecnologias de Speech-to-Text (STT), aplicação de regras de sintaxe e morfologia, moderação contextual e Text-to-Speech (TTS). O sistema permite que as mensagens verbais sejam transcritas em texto e exibidas no chat, ao mesmo tempo em que uma versão sintetizada em áudio é enviada aos participantes. A transcrição é ajustada para corrigir erros gramaticais e melhorar a clareza. Além disso, a moderação contextual valida a relevância da mensagem dentro do contexto da conversa, bloqueando ou ajustando mensagens fora de tema. Uma característica importante do sistema é a preservação da identidade dos usuários, já que a voz sintetizada não guarda relação com a voz original, protegendo a privacidade dos participantes. O sistema tem aplicações significativas em ambientes de inteligência, como no contexto de serviços de informações, onde a segurança, privacidade e precisão das interações são essenciais.
 
+## 📌 14) Violação do Voto Secreto em Urnas Eletrônicas: Mitigação de Riscos com Blindagens Contra Sensores Hiperespectrais em Contextos de Vigilância Eleitoral
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/ViolacaoVotoSecreto.md)
+
+O presente estudo analisa os riscos à segurança do voto secreto em urnas eletrônicas brasileiras, em face do uso crescente de tecnologias de sensores hiperespectrais, com ênfase nas técnicas de eavesdropping de LCDs e visual keylogging. A pesquisa foca na proposição de blindagens físicas como uma medida de mitigação dessas ameaças, utilizando barreiras contra sensores hiperespectrais para proteger as informações da urna eletrônica e garantir a confidencialidade do voto. O estudo aborda os princípios técnicos e os desafios dessa abordagem, apresentando evidências de eficácia das blindagens no contexto de segurança eleitoral e propondo direções para sua implementação.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
