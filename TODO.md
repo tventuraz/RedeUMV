@@ -24,4 +24,9 @@
 - A moderação da rede permite que operadores de unidades militares pratiquem que crimes graves tais como tortura, pedofilia e terrorismo sem nenhuma consequência (mesmo após denuncias de outros usuários);
 - O extravio de um equipamento militar deveria ser encarado com mais responsabilidade;
 
+### 🔹 4) Paper: Violação do Voto Secreto
+
+- Técnicas de Visual Keylogging para Capturar Digitação do Eleitor;
+- Técnicas de Eavesdropping do Display de Cristal Liquido da Urna Eletrônica;
+
 #### EOF
