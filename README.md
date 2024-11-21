@@ -94,6 +94,12 @@ Este artigo propõe um sistema multimodal de comunicação desenvolvido para mel
 
 O presente estudo analisa os riscos à segurança do voto secreto em urnas eletrônicas brasileiras, em face do uso crescente de tecnologias de sensores hiperespectrais, com ênfase nas técnicas de eavesdropping de LCDs e visual keylogging. A pesquisa foca na proposição de blindagens físicas como uma medida de mitigação dessas ameaças, utilizando barreiras contra sensores hiperespectrais para proteger as informações da urna eletrônica e garantir a confidencialidade do voto. O estudo aborda os princípios técnicos e os desafios dessa abordagem, apresentando evidências de eficácia das blindagens no contexto de segurança eleitoral e propondo direções para sua implementação.
 
+## 📌 15) A Possibilidade de uma Inteligência Artificial Prever e "Ler" Pensamentos Humanos: Uma Abordagem Teórica Usando Sensores Hiperspectrais e Feedback Multimodal
+
+[Paper](https://github.com/tventuraz/RedeUMV/blob/main/InvasaoPensamento.md)
+
+Este artigo teórico explora a possibilidade de uma Inteligência Artificial (IA) ser capaz de prever e até “ler” os pensamentos de um indivíduo após um longo período de treinamento utilizando sensores hiperspectrais e feedback multimodal. Os sensores seriam capazes de monitorar sinais fisiológicos, como eletroencefalogramas (EEG), eletrocardiogramas (ECG) e tomografia, enquanto o feedback do indivíduo sobre suas emoções e pensamentos específicos forneceria dados complementares para o aprendizado da IA. O trabalho aborda o potencial dessa tecnologia, as limitações associadas à previsão de pensamentos, os desafios éticos envolvidos e as implicações futuras de tal capacidade.
+
 ## :pushpin: Glossário
 
 [Glossário](https://github.com/tventuraz/RedeUMV/blob/main/Glossario.md)
