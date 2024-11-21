@@ -1,4 +1,4 @@
-# Projeto Black Hat: A Engenharia Reversa de um Segredo de Estado 
+# Projeto Black Hat: A Engenharia Reversa Teórica de um Segredo de Estado 
 
 *por Tiago Ventura (719.297.891-49)*
 
