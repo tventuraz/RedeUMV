@@ -140,13 +140,13 @@ Graças à sua ajuda, consegui estruturar melhor minhas ideias e aprofundar minh
 
 ## Aos Grandes Pensadores
 
-<b><font size="4">"Ele não sabia que era impossível. Foi lá e fez."</font></b><br>
+- <b><font size="4">"Ele não sabia que era impossível. Foi lá e fez."</font></b><br>
 (*Jean Cocteau*) 
 
-<b><font size="4">"A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro." </font></b><br>
+- <b><font size="4">"A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro." </font></b><br>
 (*Albert Einstein* - *Entrevista ao The Saturday Evening Post* - *1929*)
 
-<b><font size="4">"A verdade é bela, mas a beleza da verdade é, de todas as coisas, a mais bela."</font></b><br>
+- <b><font size="4">"A verdade é bela, mas a beleza da verdade é, de todas as coisas, a mais bela."</font></b><br>
 (*Arthur Schopenhauer* - *Parerga e Paralipomena* - *1851*). 
 
 ## MIT License
