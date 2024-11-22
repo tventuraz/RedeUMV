@@ -44,5 +44,6 @@ digraph G {
     MINHAFILHA -> FRANCISCO [label="fornece\nassistência" color=red]
     ISMAEL -> FRANCISCO [label="opera" color=red]
     FRANCISCO -> OWNADO [label="owna sem\nautorização" color=red]
+    FRANCISCO -> FORUM [label="participa sem\nautorização" color=red]
 
 }
