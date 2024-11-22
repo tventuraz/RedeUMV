@@ -7,26 +7,39 @@ digraph G {
     #######################################################################
     #                           ENTIDADES                                 #
     #######################################################################
-    OPERADOR [label="Operador\n(autoridade)"]
-    UNIDADE [label="Unidades\nMóveis"]
-    OWNADO [label="Cidadão\nOwnado"]
-    HABERMAS [label="Máquina de\nHabermas"]
-    RECOMPENSA [label="Mecanismo de\nRecompensas"]
-    PENALIDADE [label="Mecanismo de\nPenalidades"]
-    CONTEXTO [label="Árvore de\nContexto\n(Perplexidade)"]
-    UMV [label="Moderação IA\nUMV"]
-    FORUM [label="Forum/Chat de\nDiscussão"]
-    ASSISTENCIA [label="Assistência\nIA"]
+    subgraph cluster_rede_umv {
+        style = "dashed";
+        label= "REDE UMV";
+
+        OWNADO [label="Cidadão\nOwnado"]
+        HABERMAS [label="Máquina de\nHabermas"]
+        RECOMPENSA [label="Mecanismo de\nRecompensas"]
+        PENALIDADE [label="Mecanismo de\nPenalidades"]
+        CONTEXTO [label="Árvore de\nContexto\n(Perplexidade)"]
+        UMV [label="Moderação IA\nUMV"]
+        FORUM [label="Forum/Chat de\nDiscussão"]
+    }    
     
-    subgraph cluster_unidades {
+    subgraph cluster_invasor {
         style = "dashed";
         label= "EQUIPAMENTO EXTRAVIADO";
         
         FRANCISCO [label="Unidade Móvel\n\"FRANCISCO\"\nMilitar" color=red]
         MINHAFILHA [label="Assistência IA\n\"MinhaFilha\"" color=red]
         ISMAEL [label="Operador\nISMAEL" color=red]
+        ROTTEN [shape=cylinder label="owning\ndatabase" color=red]
     }
     
+    subgraph cluster_autoridades {
+        style = "dashed";
+        label= "AUTORIDADES";
+        
+        OPERADOR [label="Operador\n(autoridade)" color=blue]
+        UNIDADE [label="Unidades\nMóveis" color=blue]
+        ASSISTENCIA [label="Assistência\nIA" color=blue]
+        OWNING [label="owning\ndatabases" shape=cylinder color=blue]
+    }
+
     #######################################################################
     #                       RELACIONAMENTOS                               #
     #######################################################################
@@ -36,14 +49,14 @@ digraph G {
     FORUM -> RECOMPENSA [label="implementa"]
     FORUM -> PENALIDADE [label="implementa"]
     FORUM -> CONTEXTO [label="implementa"]
-    OPERADOR -> UNIDADE [label="opera"]
-    UNIDADE -> OWNADO [label="ownam"]
-    UNIDADE -> FORUM [label="participam"]
-    ASSISTENCIA -> UNIDADE [label="fornece\nassistência"]
-
+    OPERADOR -> UNIDADE [label="opera" color=blue]
+    UNIDADE -> OWNADO [label="ownam" color=blue]
+    UNIDADE -> FORUM [label="participam" color=blue]
+    ASSISTENCIA -> UNIDADE [label="fornece\nassistência" color=blue]
     MINHAFILHA -> FRANCISCO [label="fornece\nassistência" color=red]
     ISMAEL -> FRANCISCO [label="opera" color=red]
     FRANCISCO -> OWNADO [label="owna sem\nautorização" color=red]
     FRANCISCO -> FORUM [label="participa sem\nautorização" color=red]
-
+    UNIDADE -> OWNING [label="alimentam" color=blue]
+    FRANCISCO -> ROTTEN [label="alimenta" color=red]
 }
