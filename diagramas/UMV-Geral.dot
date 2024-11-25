@@ -31,6 +31,7 @@ digraph G {
         UNIDADE [label="Unidade\nMóvel"]
         ASSISTENCIA [label="Assistência\nIA"]
         OWNING [label="Owning\nDatabase" shape=cylinder]
+        GPT_CHATBOT [label="GPT Based\nChatBot"]
         
         EYE_TRACKING [label="Eye\nTracking"]
         FACE_RECOGNITION [label="Reconhecimento\nFacial"]
@@ -39,6 +40,7 @@ digraph G {
         KEYLOGGING [label="Key Logging"]
         MULTIMODAL [label="Análise\nMultimodal\nde Emoções"]
         EAVESDROPPING [label="Display\nEavesdropping"]
+        OCR [label="Optical Character\nRecognition"]
     }
     
     subgraph cluster_infra_umv {
@@ -46,9 +48,13 @@ digraph G {
         label="INFRAESTRUTURA UMV"
         labelloc = "bottom"
         
-        INFRAESTRUTURA [label="Infraestrutura"]
-        SENSORES_HIPERSPECTRAIS [label="Sensores\nHiperspectrais"]
+        INFRAESTRUTURA [label="Infraestrutura\nUMV"]
+        SENSORES_HIPERSPECTRAIS [label="Sensores/Cameras\nHiperspectrais"]
         LANTERNAS_UV [label="Lanterna\nUltravioleta"]
+        
+        RADIACAO [label="Radiação UV"]
+        ELETROCROMATICO [label=" Sistema Óptico\nEletrocromático"]
+        ESPECTROSCOPIA [label="Espectroscopia"]
     }
     
     MPF [label="Ministerio Público\nFederal"]
@@ -65,7 +71,7 @@ digraph G {
     OPERADOR -> UNIDADE [label="opera" ]
     SENSORES_HIPERSPECTRAIS -> OWNADO [label="owna" ]
     UNIDADE -> FORUM [label="participa" ]
-    ASSISTENCIA -> UNIDADE [label="fornece\nassistência"]
+    ASSISTENCIA -> UNIDADE [label="compõe"]
     UNIDADE -> OWNING [label="alimenta" ]
     UMV -> UMVDATABASE [label="alimenta"]
     UNIDADE -> UMV [label="sincroniza" ]
@@ -82,4 +88,12 @@ digraph G {
     UNIDADE -> VIBROMETRIA [label="implementa"]
     UNIDADE -> MULTIMODAL  [label="implementa"]
     UNIDADE -> EAVESDROPPING [label="implementa"]
+    UNIDADE -> OCR [label="implementa"]
+    
+    LANTERNAS_UV -> RADIACAO [label="emite"]
+    LANTERNAS_UV -> ELETROCROMATICO [label="composto por"]
+    ASSISTENCIA -> GPT_CHATBOT [label="implementa"]
+    ASSISTENCIA -> OPERADOR [label="fornece\nassistência"]
+    LANTERNAS_UV -> ESPECTROSCOPIA [label="realça"]
+    SENSORES_HIPERSPECTRAIS -> ESPECTROSCOPIA [label="possibilita"]   
 }
