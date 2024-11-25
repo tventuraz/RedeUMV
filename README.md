@@ -6,7 +6,7 @@
 
 A rede UMV é uma infraestrutura avançada de inteligência, vigilância e monitoramento desenvolvida para garantir a segurança nacional e fornecer informações precisas às autoridades responsáveis pela proteção do Brasil. Esta rede integra tecnologias de ponta para coleta e processamento de dados, além de uma estrutura descentralizada de unidades operacionais. A administração da UMV é responsabilidade exclusiva das Forças Armadas do Brasil, que coordenam as operações e asseguram a eficácia do sistema. A rede é classificada como um segredo de estado, com um rigoroso protocolo de segurança e proteção das informações sensíveis. Além disso, a UMV incorpora assistências por inteligência artificial, que utilizam linguagem natural para otimizar o processamento de dados e moderar as interações dentro da rede.
 
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/tventuraz/RedeUMV/refs/heads/main/diagramas/UMV-Geral.png" width="640">
 </div>
 
